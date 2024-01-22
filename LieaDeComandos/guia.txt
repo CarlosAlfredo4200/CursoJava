@@ -1,0 +1,9 @@
+desde terminar : 
+	Crear el ejecutable
+		javac PruebaArgs.java 
+
+	Ejecutar:
+		java PruebaArgs Carlos Alfredo
+
+
+Caracteres especiales :  javac .\ArgumentosLineaComandoCalculadora.java -encoding utf8
